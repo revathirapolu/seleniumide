@@ -1,0 +1,4 @@
+seleniumide
+===========
+
+Selenium IDE
