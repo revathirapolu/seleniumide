@@ -17,7 +17,7 @@ public class AdminSmokeTestSuite {
     @BeforeClass
     public static void openBrowser()
     {
-        System.out.println("Opening the Browser When Class Instantiates");
+        System.out.println("Opening the Browser When Class Instantiates .please check if not started");
         driver = new FirefoxDriver();
         String baseUrl ="http://insoftt.trial47.orangehrmlive.com/";
         driver.get(baseUrl);
