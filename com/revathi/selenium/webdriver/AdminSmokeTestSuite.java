@@ -17,7 +17,7 @@ public class AdminSmokeTestSuite {
     @BeforeClass
     public static void openBrowser()
     {
-        System.out.println("Opening the Browser");
+        System.out.println("Opening the Browser When Class Instantiates");
         driver = new FirefoxDriver();
         String baseUrl ="http://insoftt.trial47.orangehrmlive.com/";
         driver.get(baseUrl);
@@ -28,7 +28,7 @@ public class AdminSmokeTestSuite {
     @AfterClass
     public static void closeBrowser()
     {
-        System.out.println("Closing the Browser");
+        System.out.println("Closing the Browser After Test");
         driver.quit();
     }
 
