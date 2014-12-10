@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04639286-e4e0-4e37-8835-26bb62c5c205" name="Default" comment="Changes to Test.">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/revathi/selenium/webdriver/AdminSmokeTestSuite.java" afterPath="$PROJECT_DIR$/com/revathi/selenium/webdriver/AdminSmokeTestSuite.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="04639286-e4e0-4e37-8835-26bb62c5c205" name="Default" comment="Changes to Test." />
     <list id="59559f06-f47f-4d88-b7a7-8b3649e215cd" name="DONOT COMMIT" comment="" />
     <ignored path="seleniumide.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,8 +30,8 @@
       <file leaf-file-name="AdminSmokeTestSuite.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com/revathi/selenium/webdriver/AdminSmokeTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23759791" vertical-offset="232" max-vertical-offset="3298">
-              <caret line="19" column="100" selection-start-line="19" selection-start-column="100" selection-end-line="19" selection-end-column="100" />
+            <state vertical-scroll-proportion="0.32637075" vertical-offset="232" max-vertical-offset="3298">
+              <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -537,7 +534,7 @@
       <created>1418243588180</created>
       <option name="number" value="Default" />
       <updated>1418243588180</updated>
-      <workItem from="1418243585743" duration="2525000" />
+      <workItem from="1418243585743" duration="2686000" />
     </task>
     <task id="LOCAL-00001" summary="Changes to Test.">
       <created>1418244685126</created>
@@ -561,7 +558,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2525000" />
+    <option name="totallyTimeSpent" value="2686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -636,8 +633,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/revathi/selenium/webdriver/AdminSmokeTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23759791" vertical-offset="232" max-vertical-offset="3298">
-          <caret line="19" column="100" selection-start-line="19" selection-start-column="100" selection-end-line="19" selection-end-column="100" />
+        <state vertical-scroll-proportion="0.32637075" vertical-offset="232" max-vertical-offset="3298">
+          <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
